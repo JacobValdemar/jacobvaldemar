@@ -3,7 +3,7 @@
 - **Platform Engineer**<br>Part time • Jan. 2021 - now (3 years)
 - **Site Reliability Engineer**<br>Internship • Aug. - Dec. 2020 (5 months)
 
-### Department of Electrical and Computer Engineering, Aarhus University
+### Aarhus University
 - **Teaching Assistant, Distributed Systems in Practice**<br>Part time • Feb. - Jul. 2021 (6 months)
 
 ## Education
