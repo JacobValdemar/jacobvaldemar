@@ -1,6 +1,7 @@
 ## Experience
 ### Lunar
-- **Platform Engineer**<br>Part time • Jan. 2021 - now (3 years)
+- **Platform Engineer**<br>Full-time • Mar. 2024 - now
+- **Platform Engineer**<br>Part time • Jan. 2021 - Feb. 2023 (3 years)
 - **Site Reliability Engineer**<br>Internship • Aug. - Dec. 2020 (5 months)
 
 ### Aarhus University
