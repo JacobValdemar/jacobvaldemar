@@ -1,20 +1,18 @@
+## Open source
+### Cloud Native Computing Foundation
+- **Project Co-Lead** in the Technical Advisory Group for Environmental Sustainability<br>Feb. 2024 - now
+
+## Public occurrences
+- **Carbon-efficient Cluster Autoscaling with Jacob Valdemar** ([interview](https://www.youtube.com/watch?v=xdU9zv1mW6U))<br>Lunar, 2024
+- **From Student to SRE That Loves CNCF in No Time** ([presentation](https://kccnceu2022.sched.com/event/ytt6))<br>KubeCon + CloudNativeCon Europe, 2022
+
 ## Experience
 ### Lunar
 - **Platform Engineer**<br>Full-time • Mar. 2024 - now
-- **Platform Engineer**<br>Part time • Jan. 2021 - Feb. 2023 (3 years)
-- **Site Reliability Engineer**<br>Internship • Aug. - Dec. 2020 (5 months)
-
-### Aarhus University
-- **Teaching Assistant, Distributed Systems in Practice**<br>Part time • Feb. - Jul. 2021 (6 months)
 
 ## Education
 - **Master of Science, Computer Engineering**<br>Aarhus University • 2022 - 2024
 - **Bachelor of Engeneering, Software Technology**<br>Aarhus University • 2018 - 2022
-
-## Certifications
-- **Green Software for Practitioners**, 2023
-- **Speaker: KubeCon + CloudNativeCon Europe 2022**, 2022
-- **CKA: Certified Kubernetes Administrator**, 2021
 
 _For more, visit [linkedin.com/in/jacob-valdemar](https://www.linkedin.com/in/jacob-valdemar)._
 
