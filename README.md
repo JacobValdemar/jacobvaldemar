@@ -1,6 +1,6 @@
 ## Open source
 ### Cloud Native Computing Foundation
-- **Project Co-Lead** in the Technical Advisory Group for Environmental Sustainability<br>Feb. 2024 - now
+- **Project Co-Lead** in the Technical Advisory Group for Environmental Sustainability<br>Feb. 2024 - Aug. 2024
 
 ## Public occurrences
 - **Carbon-efficient Cluster Autoscaling with Jacob Valdemar** ([interview](https://www.youtube.com/watch?v=xdU9zv1mW6U))<br>Lunar, 2024
