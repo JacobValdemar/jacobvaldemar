@@ -3,6 +3,7 @@
 - **Project Co-Lead** in the Technical Advisory Group for Environmental Sustainability<br>Feb. 2024 - Aug. 2024
 
 ## Public occurrences
+- **Cloudy with a Chance of Zero CO₂ (and a Swedish Twist!)** ([presentation](https://www.youtube.com/watch?v=SG4096KIv_g))<br>Kubernetes Community Days Denmark, 2024
 - **Carbon-efficient Cluster Autoscaling with Jacob Valdemar** ([interview](https://www.youtube.com/watch?v=xdU9zv1mW6U))<br>Lunar, 2024
 - **From Student to SRE That Loves CNCF in No Time** ([presentation](https://kccnceu2022.sched.com/event/ytt6))<br>KubeCon + CloudNativeCon Europe, 2022
 
